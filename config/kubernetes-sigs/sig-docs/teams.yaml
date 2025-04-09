@@ -11,8 +11,8 @@ teams:
   reference-docs-maintainers:
     description: write access to the reference-docs repo
     members:
+    - lmktfy
     - onlydole
-    - sftim
     - tengqm
     privacy: closed
     repos:

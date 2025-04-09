@@ -4,9 +4,9 @@ teams:
     maintainers:
     - mrbobbytables
     members:
+    - lmktfy
     - nate-double-u
     - onlydole
-    - sftim
     privacy: closed
   sig-docs-de-owners:
     description: Approvers for German content
@@ -28,13 +28,13 @@ teams:
     - divya-mohan0209
     - katcosgrove
     - kbhawkey
+    - lmktfy
     - mickeyboxell
     - natalisucks
     - nate-double-u
     - onlydole
     - reylejano
     - salaxander
-    - sftim
     - tengqm
     privacy: closed
   sig-docs-en-reviews:
@@ -44,6 +44,7 @@ teams:
     - dipesh-rawat
     - divya-mohan0209
     - kbhawkey
+    - lmktfy
     - mehabhalodiya
     - mengjiao-liu
     - natalisucks
@@ -51,7 +52,6 @@ teams:
     - onlydole
     - reylejano
     - salaxander
-    - sftim
     - shannonxtreme
     - tengqm
     - windsonsea
@@ -175,11 +175,11 @@ teams:
     members:
     - divya-mohan0209
     - kbhawkey
+    - lmktfy
     - natalisucks
     - onlydole
     - reylejano
     - salaxander
-    - sftim
     - tengqm
     privacy: closed
   sig-docs-pl-owners:
@@ -327,6 +327,7 @@ teams:
     - jcjesus # L10n: Portuguese
     - jhonmike # L10n: Portuguese
     - katcosgrove # 1.29 RT Docs Lead
+    - lmktfy # L10n: English
     - mfilocha # L10n: Polish
     - mickeyboxell # 1.27 RT Docs lead
     - nasa9084 # L10n: Japanese
@@ -342,7 +343,6 @@ teams:
     - salaxander # L10n: English
     - SataQiu # L10n: Chinese
     - seokho-son # L10n: Korean
-    - sftim # L10n: English
     - shurup # L10n: Russian
     - tengqm # L10n: Chinese
     - truongnh1992 # L10n: Vietnamese
@@ -379,7 +379,7 @@ teams:
     - salaxander
     - SataQiu
     - seokho-son
-    - sftim
+    - lmktfy
     - shurup
     - tanjunchen
     - tengqm
