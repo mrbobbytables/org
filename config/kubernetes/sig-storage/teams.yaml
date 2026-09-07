@@ -45,7 +45,7 @@ teams:
   sig-storage-pr-reviews:
     description: PR Reviews for Kubernetes Storage Special-Interest-Group
     members:
-    - gnufied      
+    - gnufied
     - jsafrane
     - msau42
     - xing-yang
@@ -53,7 +53,7 @@ teams:
   sig-storage-proposals:
     description: Proposals for Kubernetes Storage Special-Interest-Group
     members:
-    - gnufied      
+    - gnufied
     - jingxu97
     - jsafrane
     - msau42
@@ -77,7 +77,7 @@ teams:
     # https://github.com/kubernetes/test-infra/blob/master/config/jobs/image-pushing/k8s-staging-sig-storage.sh
     description: Admin access for https://testgrid.k8s.io/sig-storage-image-build jobs
     members:
-    - gnufied      
+    - gnufied
     - jsafrane
     - msau42
     - pohly
@@ -86,7 +86,7 @@ teams:
   sig-storage-leads:
     description: ""
     members:
-    - gnufied      
+    - gnufied
     - jsafrane
     - msau42
     - xing-yang
