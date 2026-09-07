@@ -2,9 +2,9 @@ teams:
   sig-storage-api-reviews:
     description: API Reviews for Kubernetes Storage Special-Interest-Group
     members:
+    - gnufied
     - jsafrane
     - msau42
-    - saad-ali
     - thockin
     - xing-yang
     privacy: closed
@@ -15,16 +15,15 @@ teams:
     - jingxu97
     - jsafrane
     - msau42
-    - saad-ali
     - xing-yang
     privacy: closed
   sig-storage-feature-requests:
     description: Feature Requests for Kubernetes Storage Special-Interest-Group
     members:
+    - gnufied
     - jingxu97
     - jsafrane
     - msau42
-    - saad-ali
     - smarterclayton
     - thockin
     - xing-yang
@@ -39,7 +38,6 @@ teams:
     - jingxu97
     - jsafrane
     - msau42
-    - saad-ali
     - smarterclayton
     - thockin
     - xing-yang
@@ -47,18 +45,18 @@ teams:
   sig-storage-pr-reviews:
     description: PR Reviews for Kubernetes Storage Special-Interest-Group
     members:
+    - gnufied      
     - jsafrane
     - msau42
-    - saad-ali
     - xing-yang
     privacy: closed
   sig-storage-proposals:
     description: Proposals for Kubernetes Storage Special-Interest-Group
     members:
+    - gnufied      
     - jingxu97
     - jsafrane
     - msau42
-    - saad-ali
     - smarterclayton
     - thockin
     - xing-yang
@@ -66,10 +64,10 @@ teams:
   sig-storage-test-failures:
     description: Test Failures for Kubernetes Storage Special-Interest-Group
     members:
+    - gnufied
     - jingxu97
     - jsafrane
     - msau42
-    - saad-ali
     - xing-yang
     privacy: closed
   sig-storage-image-build-admins:
@@ -79,17 +77,17 @@ teams:
     # https://github.com/kubernetes/test-infra/blob/master/config/jobs/image-pushing/k8s-staging-sig-storage.sh
     description: Admin access for https://testgrid.k8s.io/sig-storage-image-build jobs
     members:
+    - gnufied      
     - jsafrane
     - msau42
     - pohly
-    - saad-ali
     - xing-yang
     privacy: closed
   sig-storage-leads:
     description: ""
     members:
+    - gnufied      
     - jsafrane
     - msau42
-    - saad-ali
     - xing-yang
     privacy: closed
